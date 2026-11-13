@@ -35,8 +35,6 @@ DocCraft/
 
 安裝後的檔案路徑例如 `~/.claude/skills/doc-craft/SKILL.md`。工具版本可能影響重新載入方式，請以實際環境為準。
 
-若要放上 GitHub，請先解壓縮，並將 `DocCraft/` **內部內容**上傳至 Repository 根目錄。
-
 ## 使用範例
 
 - 「幫我把 README 改成新開發者容易上手的版本。」
