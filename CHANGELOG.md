@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased
+
+- 移除執行 formatter／linter 的指示；文件 lint 是否執行由各專案規範決定。
+
 ## v0.2.0
 
 - `description` 改成只寫觸發條件，加入中文關鍵字，並排除規格決策、程式碼註解與 commit message。

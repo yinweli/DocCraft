@@ -39,7 +39,7 @@ Write technical documents for human readers first: accurate, complete, concise, 
 1. **Read:** Identify the intended audience, document purpose, and existing conventions within the reading scope.
 2. **Structure:** Choose the simplest readable organization; keep related information together.
 3. **Write or revise:** Improve clarity without silently changing requirements, meaning, or established terminology.
-4. **Check:** Review completeness, heading hierarchy, examples, and the links you touched. Run formatters or linters only if the project already configures them.
+4. **Check:** Review completeness, heading hierarchy, examples, and the links you touched.
 5. **Report:** Briefly state what changed and list only the checks that actually ran.
 
 ## Boundaries
